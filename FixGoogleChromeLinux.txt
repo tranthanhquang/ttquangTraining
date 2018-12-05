@@ -1,0 +1,1 @@
+-user-data-dir %U --test-type --no-sandbox --process-per-site --disk-cache-dir=/tmp/cache --disable-rich-notifications

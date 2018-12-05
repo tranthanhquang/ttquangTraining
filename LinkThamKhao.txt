@@ -1,0 +1,39 @@
+﻿Introduction to CodeIgniter Basic With CRUD
+http://www.w3programmers.com/introduction-to-codeigniter-basic-with-crud/
+OBJECT ORIENTED PROGRAMMING – PRINCIPLES
+https://itplamen.wordpress.com/2014/02/26/4-object-oriented-programming-principles-part-i/
+Code sửa lỗi Google Chrome
+-user-data-dir %U --test-type --no-sandbox --process-per-site --disk-cache-dir=/tmp/cache --disable-rich-notifications
+Tham khảo openssl-encrypt
+https://bhoover.com/using-php-openssl_encrypt-openssl_decrypt-encrypt-decrypt-data/
+https://gist.github.com/joashp/a1ae9cb30fa533f4ad94
+Sửa lỗi word
+word cannot start the converter WRD6ER32
+C:\Program Files\Common Files\Microsoft Shared\TextConv
+-- Framework CakePHP -- 
+http://nongdanit.info/php-mysql/gioi-thieu-cakephp-framework.html
+http://www.qhonline.info/chuyen-muc/9-cakephp-framework.html
+https://book.cakephp.org/2.0/en/index.html
+https://www.c-sharpcorner.com/UploadFile/528a80/how-to-view-insert-update-and-delete-in-cakephp/
+https://www.tutorialspoint.com/cakephp/cakephp_working_with_database.htm
+https://www.startutorial.com/articles/view/build-a-shopping-cart-with-cakephp-and-jquery-part-1
+https://www.startutorial.com/articles/view/build-a-shopping-cart-with-cakephp-and-jquery-part-2
+https://www.codeofaninja.com/2012/04/cakephp-2x-crud-tutorial.html
+http://findnerd.com/list/view/How-to-use-CRUD-Create-Read-Update-Delete-in-Cakephp-3-0-/22615/
+https://www.codexworld.com/cakephp-tutorial-part-2-add-edit-delete-operations/
+https://www.discussdesk.com/simple-crud-operation-in-cakephp.htm
+http://programmerstube.com/php/cakephp-tutorial/cakephp-tutorial-crud-example
+https://waltherlalk.com/blog/cakephp-3-tutorial-part-5
+http://www.w3programmers.com/crud-with-cakephp/
+https://www.youtube.com/watch?v=Djj_lmA6N-E
+https://www.tutorialspoint.com/cakephp/cakephp_security.htm
+https://blog.webnersolutions.com/cakephp-security-component
+https://www.technlg.net/windows/download-windows-resource-kit-tools/
+Lệnh giảm dung lượng file pdf
+gswin64c -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=D:/xampp5/htdocs/test/test_resizedphp.pdf D:/xampp5/htdocs/test/article-ocr.pdf
+và
+gswin64c -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf
+https://www.outlookimport.com/vi/how-to-import-individual-messages-from-thunderbird-to-outlook/
+https://support.office.com/vi-vn/article/kh%E1%BA%AFc-ph%E1%BB%A5c-s%E1%BB%B1-c%E1%BB%91-v%E1%BB%81-thi%E1%BA%BFt-l%E1%BA%ADp-email-outlook-8da1fb2d-316b-4448-a7cd-f543dd083315
+https://developer.chrome.com/extensions/getstarted
+https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/

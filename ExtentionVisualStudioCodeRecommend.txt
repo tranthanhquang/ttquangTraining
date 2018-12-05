@@ -1,0 +1,8 @@
+Extension Visual Studio Code
+1. https://marketplace.visualstudio.com/items?itemName=bierner.color-info
+2. https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator
+3. https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+4. https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense
+5. https://marketplace.visualstudio.com/items?itemName=HvyIndustries.crane
+6. https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+7. https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme
