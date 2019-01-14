@@ -1,0 +1,8 @@
+\\193.168.40.68
+go get -u github.com/go-sql-driver/mysql
+
+go get -v github.com/sqs/goreturns
+go get -v github.com/mdempsky/gocode
+go get -v github.com/uudashr/gopkgs/cmd/gopkgs
+go get -v github.com/mdempsky/gocode
+go get -v github.com/rogpeppe/godef
