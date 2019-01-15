@@ -5,3 +5,5 @@ https://csswizardry.com/2011/01/create-a-centred-horizontal-navigation/
 https://utemplates.net/free-employee-id-card-templates/
 https://book.cakephp.org/2.0/en/core-libraries/components/authentication.html
 https://groups.google.com/forum/#!topic/exeideas/tpSoZvzPVkM
+https://www.gimp-forum.net/Thread-Can-t-connect-to-the-gimp-plugin-registry
+https://web.archive.org/web/20180416220801/http://registry.gimp.org:80/node/20269
