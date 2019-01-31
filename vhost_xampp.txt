@@ -12,4 +12,16 @@
 	CustomLog "D:/ttquang-access.log" common
 </VirtualHost>
 
+-----------------------------------------------------------
+
+<VirtualHost *:80>
+    ServerAdmin ttquang@tma.com.vn
+    DocumentRoot "D:\xampp71\htdocs\ttquang"
+    ServerName ttquang.com
+    ErrorLog "logs/dummy-host2.example.com-error.log"
+    CustomLog "logs/dummy-host2.example.com-access.log" common
+</VirtualHost>
+
+-----------------------------------------------------------
+
 httpd-vhosts.conf
