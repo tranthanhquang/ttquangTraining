@@ -1,0 +1,15 @@
+<VirtualHost *:80>
+    ServerAdmin ttquang@tma.com.vn
+    DocumentRoot "D:/SourceCode/StubServer/public/"
+    <Directory "D:/SourceCode/StubServer/public/">
+        Options FollowSymLinks
+        AllowOverride All
+        Require all granted
+        Allow from all
+    </Directory>
+    ServerName internal-dev-aws-dsdif-contentbase-ph2-391253313.ap-northeast-1.elb.amazonaws.com
+    ErrorLog "D:/SourceCode/Zenrin-MAgNeSStep3/logs/frontcontent.zenrin.com-error.log"
+	CustomLog "D:/SourceCode/Zenrin-MAgNeSStep3/logs/frontcontent.zenrin.com-access.log" common
+</VirtualHost>
+
+httpd-vhosts.conf
