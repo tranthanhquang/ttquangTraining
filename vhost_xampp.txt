@@ -1,0 +1,15 @@
+<VirtualHost *:80>
+    ServerAdmin tranthanhquanghoctap96@gmail.com
+    DocumentRoot "D:/SourceCode/"
+    <Directory "D:/SourceCode/">
+        Options FollowSymLinks
+        AllowOverride All
+        Require all granted
+        Allow from all
+    </Directory>
+    ServerName ttquang.com
+    ErrorLog "D:/ttquang-error.log"
+	CustomLog "D:/ttquang-access.log" common
+</VirtualHost>
+
+httpd-vhosts.conf
